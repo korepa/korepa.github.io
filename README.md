@@ -1,1 +1,1 @@
-# korepa2.github.io
+# korepa.github.io
